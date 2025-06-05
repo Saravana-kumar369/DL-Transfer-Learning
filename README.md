@@ -27,9 +27,9 @@ Evaluate the model with test accuracy, confusion matrix, classification report, 
 
 ## PROGRAM
 
-### Name: DEVESH S
+### Name: SARAVANA KUMAR M
 
-### Register Number: 212223230041
+### Register Number: 212222230133
 
 ```python
 import torch as t
